@@ -255,6 +255,7 @@ Create `.claude/CLAUDE.md` or `Features/[FeatureName]/CLAUDE.md`:
 3. Dismissal sets childViewModel to nil
 
 ### Example
+
 ```swift
 @Observable
 final class ParentViewModel {
