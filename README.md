@@ -136,6 +136,8 @@ Create `CLAUDE.md` in your project root:
 - Test: `mcp__xcodebuildmcp__test_sim_name_proj`
 - Clean: `mcp__xcodebuildmcp__clean`
 
+```
+
 ## Project Structure
 ```
 MyApp/
