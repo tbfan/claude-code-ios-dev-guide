@@ -266,7 +266,10 @@ final class ParentViewModel {
 ```
 
 ## Testing
-Run tests: `mcp__xcodebuildmcp__swift_package_test`
+
+Run tests: 
+```
+mcp__xcodebuildmcp__swift_package_test
 ```
 
 ---
