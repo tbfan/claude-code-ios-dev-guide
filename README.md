@@ -226,6 +226,7 @@ When starting new features:
 5. Implement incrementally with tests
 
 ## Memory Imports
+```
 @import docs/PRD.md
 @import docs/ARCHITECTURE.md
 @import docs/ROADMAP.md
