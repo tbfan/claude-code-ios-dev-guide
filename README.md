@@ -425,7 +425,6 @@ POST /api/v1/feature
 ## Open Questions
 - [ ] Question 1?
 
-```
 
 ### Task File Template (`docs/tasks/feature-tasks.md`)
 
